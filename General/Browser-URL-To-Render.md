@@ -1,6 +1,6 @@
 ---
-created: 2026-11-13
-updated: 2026-11-13
+created: 2026-11-23
+updated: 2026-11-23
 domain: General
 tags: [browser, network, rendering, http, dns, tcp, tls]
 ---

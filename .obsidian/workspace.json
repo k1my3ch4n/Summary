@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Frontend/Frontend-Performance-Bottlenecks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Frontend-Performance-Bottlenecks"
             }
           }
         ]
@@ -207,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 598.88671875
+    "width": 319.4727783203125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,8 +224,10 @@
   },
   "active": "ebef8c749cc0fd5a",
   "lastOpenFiles": [
-    "HTTP.md",
+    "Backend/Java-Thread.md",
+    "Frontend/Frontend-Performance-Bottlenecks.md",
     "CLAUDE.md",
+    "HTTP.md",
     "General/Browser-URL-To-Render.md",
     "General",
     "Infra",
